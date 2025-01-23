@@ -1,7 +1,5 @@
 # GymFluence
 
-![GymFluence Logo](url_to_logo)
-
 ## About
 
 **GymFluence** is a modern, responsive website designed for fitness enthusiasts and gym owners alike. Whether you're looking to showcase your gym's facilities, promote classes, or connect with members, GymFluence provides a sleek platform to achieve your goals.
